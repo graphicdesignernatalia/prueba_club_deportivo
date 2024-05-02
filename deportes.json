@@ -1,0 +1,23 @@
+[
+  {},
+  {
+    "nombre": "tennis",
+    "precio": "5000"
+  },
+  {
+    "nombre": "basquet",
+    "precio": "25000"
+  },
+  {
+    "nombre": "jiu jit su",
+    "precio": "45000"
+  },
+  {
+    "nombre": "rafting",
+    "precio": "70000"
+  },
+  {
+    "nombre": "paddle",
+    "precio": "36000"
+  }
+]
